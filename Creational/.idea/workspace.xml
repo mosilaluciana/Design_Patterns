@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03020781-e102-41a5-ba5f-64231d76afbf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Creational.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/AirMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/GroundMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/MailFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/MainFactoryMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/factorymethod/Truck.java" afterDir="false" />
-    </list>
+    <list default="true" id="03020781-e102-41a5-ba5f-64231d76afbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,6 +52,7 @@
       <updated>1698267523872</updated>
       <workItem from="1698267524600" duration="750000" />
       <workItem from="1698303273285" duration="2212000" />
+      <workItem from="1698309516266" duration="2460000" />
     </task>
     <servers />
   </component>
